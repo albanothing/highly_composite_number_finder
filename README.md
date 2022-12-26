@@ -4,7 +4,7 @@ Example outputs:
 
 ![image](https://user-images.githubusercontent.com/92639483/209550233-93c6af09-727b-44a1-8db5-06bd466fb2c0.png)
 
-![image](https://user-images.githubusercontent.com/92639483/209550681-c4eb7a5b-c832-449d-a527-12ea6681e4ed.png)
+![image](https://user-images.githubusercontent.com/92639483/209551173-4ca9ac93-9b18-41a8-aef8-5b7bbd5f1da0.png)
 
 To-Do list:
 * Implement more algorithms so that more speed comparisons can be made between the different types of known HCN searching algorithms.
