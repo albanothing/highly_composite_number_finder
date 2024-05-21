@@ -1,4 +1,4 @@
-A program that searches for highly composite numbers in the interval from 1 up to any arbitrary number and charts them out by their numbers of divisors using matplotlib,  as well as printing them out as tables. Multiple HCN finding algorithms are available for for selection by the user and time and performance of each is tracked and printed out as well, that way the user can visualize the different time complexities of algorithms available for searching HCNs.
+A program that searches for highly composite numbers in the interval from 1 up to any arbitrary number and charts them out by their numbers of divisors using matplotlib,  as well as printing them out as tables. Multiple HCN finding algorithms are available for selection by the user and time and performance of each is tracked and printed out as well, that way the user can visualize the different time complexities of algorithms available for searching HCNs.
 
 Example outputs:
 
